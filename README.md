@@ -1,7 +1,8 @@
-### Hi there!! (❁´◡`❁)
-#### It's me Isabela.
+### Hi everyone, wellcome to my Github!! (❁´◡`❁)
 
-- 🌱 I’m currently learning C, JavaScript, Front-end.
+#### It's me Isabela.🤌
+
+- 🌱 I’m currently learning C, JavaScript and Front-end.
 - 😄 Pronouns: She/Her
 
 ##
