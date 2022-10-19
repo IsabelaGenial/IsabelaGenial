@@ -1,4 +1,4 @@
-### Hi everyone, wellcome to my Github!! (❁´◡`❁)
+### Hi everyone, wellcome to my GitHub!! (❁´◡`❁)
 
 #### It's me Isabela.🤌
 
