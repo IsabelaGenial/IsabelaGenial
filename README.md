@@ -1,5 +1,5 @@
 ### Hi there!! (❁´◡`❁)
-#### It's me Isabela Genial
+#### It's me Isabela.
 
 - 🌱 I’m currently learning C, JavaScript, Front-end.
 - 😄 Pronouns: She/Her
