@@ -4,7 +4,7 @@
 
 #### It's me Isabela.🤌
 
-- 🌱 I’m currently learning C, JavaScript and Front-end.
+- 🌱 I’m currently learning C, JavaScrip, HTML, CSS,  HTTP e API.
 - 😄 Pronouns: She/Her
 
 
