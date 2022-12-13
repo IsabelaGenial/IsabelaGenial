@@ -1,6 +1,6 @@
 <img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://media.discordapp.net/attachments/1021438070727381063/1032140915738947615/download20221003045914.png?width=450&height=450">
 
-### Hi everyone, wellcome to my GitHub!! (❁´◡`❁)
+### Hi everyone, welcome to my GitHub!! (❁´◡`❁)
 
 #### It's me Isabela.🤌
 
