@@ -1,6 +1,6 @@
 <img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/55f44843377507.57ecc15d2bac3.gif">
 
-### Hi everyone, welcome to my GitHub!! (❁´◡`❁)
+ ### Hi everyone, welcome to my GitHub!! ϵ( ‘Θ’ )϶
 
 #### It's me Isabela.🤌
 
