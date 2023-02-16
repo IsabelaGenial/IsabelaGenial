@@ -1,10 +1,10 @@
-<img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://media.discordapp.net/attachments/1021438070727381063/1032140915738947615/download20221003045914.png?width=450&height=450">
+<img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/55f44843377507.57ecc15d2bac3.gif">
 
 ### Hi everyone, welcome to my GitHub!! (❁´◡`❁)
 
 #### It's me Isabela.🤌
 
-- 🌱 I’m currently learning C, JavaScrip, HTML, CSS,  HTTP e API.
+- I’m currently learning C, JavaScrip, HTML, CSS,  HTTP e API.
 - 😄 Pronouns: She/Her
 
 
