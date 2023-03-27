@@ -36,7 +36,7 @@
 
 ##
 <div align="center"> 
-  <a href = "https://nadei.42sp.org.br/"><img align="center" alt="Isa-Spring" height="90" width="90" align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+  <a href = "https://nadei.42sp.org.br/"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
  
 ##
