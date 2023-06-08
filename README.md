@@ -1,4 +1,4 @@
-<img align="right" alt="Isa-pic" height="200" style="border-radius:60px;" src="https://i.pinimg.com/originals/0e/60/aa/0e60aa134de82c581fad2a2f5e7fcdc9.gif">
+<img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://i.pinimg.com/originals/0e/60/aa/0e60aa134de82c581fad2a2f5e7fcdc9.gif">
 
  ## Hey Hey!!
  ##
