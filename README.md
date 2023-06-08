@@ -1,12 +1,13 @@
-<img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/55f44843377507.57ecc15d2bac3.gif">
+<img align="right" alt="Isa-pic" height="200" style="border-radius:60px;" src="https://i.pinimg.com/originals/0e/60/aa/0e60aa134de82c581fad2a2f5e7fcdc9.gif">
 
- ### Hi everyone, welcome to my GitHub!! ϵ( ‘Θ’ )϶
+ ## Hey Hey!!
+ ##
+ ### welcome to my GitHub!! (͠≖ ͜ʖ͠≖)👌
 
-#### It's me Isabela.🤌
+♡ I'm a cadet at 42sp studying to become a human coder.
 
-- I’m currently learning -> C | JavaScript | HTML | CSS | HTTP | API.
-- 😄 Pronouns: She/Her
-
+♡ 😄 Pronouns: She/Her
+#### To infinity and beyond.
 
 ##
 <div align="center">
@@ -33,8 +34,9 @@
 </div>
 
 ##
+ ### My Projects
 <div align="center"> 
-  <a href = "https://nadei.42sp.org.br/"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+  <a href = "https://github.com/IsabelaGenial/42_Libft"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" target="_blank"></a> 
 </div>
  
 ##
