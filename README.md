@@ -2,11 +2,19 @@
 
  ## Hey Hey!!
  ##
- ### welcome to my GitHub!! (͠≖ ͜ʖ͠≖)👌
+ ### Welcome to mato!! (͠≖ ͜ʖ͠≖)👌
 
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
-♡ 😄 Pronouns: She/Her
+♡ Hello, hello everyone!  My name is Isabela, and at the ripe age of 24, I'm on a quest to conquer the world of software engineering. Currently, I'm a dedicated student pursuing my passion in this field.
+
+Now, I may be knee-deep in coding and debugging, but that doesn't mean I don't know how to have a good laugh. In fact, I've developed a secret formula for making even the most serious coding sessions hilarious. Want to hear it? Brace yourselves!
+
+Take a spoonful of bugs and errors. Yes, you heard it right! Embrace those pesky bugs and turn them into comedy gold. After all, what's funnier than a typo that completely derails your code? Laugh with it, my friends!
+
+And there you have it, my foolproof recipe for injecting humor into my software projects! So, if you have any funny coding stories, hilarious jokes, or memes that can make me snort with laughter, please do share them with me on Discord at Genial#6321. Let's keep the coding journey light-hearted and full of joy!
+
+Remember, laughter is the best debug tool. So, let's code, laugh, and create some tech magic together! Cheers!
 #### To infinity and beyond.
 
 ##
@@ -34,9 +42,14 @@
 </div>
 
 ##
- ### My Projects
+ <div align="center">
+ Ta-da! 
+ Enjoy the enchanted land where my wonderful new project will take root!
+ </div>
 <div align="center"> 
   <a href = "https://github.com/IsabelaGenial/42_Libft"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" target="_blank"></a> 
+ <a href = ""><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://cdn.discordapp.com/attachments/1021438070727381063/1116723262957830204/IF_I_HAD_ONE_1-fotor-bg-remover-20230609143923.png" target="_blank"></a> 
+
 </div>
  
 ##
