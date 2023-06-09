@@ -2,7 +2,7 @@
 
  ## Hey Hey!!
  ##
- ### Welcome to mato!! (͠≖ ͜ʖ͠≖)👌
+ ### Welcome to the mato!! (͠≖ ͜ʖ͠≖)👌
 
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
