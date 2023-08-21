@@ -2,7 +2,7 @@
 
  ## Hey Hey!!
  ##
- ### Welcome ! (͠≖ ͜ʖ͠≖)👌
+ ### Welcome ! 	ʕっ•ᴥ•ʔっ
 
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
