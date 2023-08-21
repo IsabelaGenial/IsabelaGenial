@@ -1,8 +1,8 @@
-<img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://i.pinimg.com/originals/0e/60/aa/0e60aa134de82c581fad2a2f5e7fcdc9.gif">
+<img align="right" alt="Isa-pic" height="" style="border-radius:60px;" src="https://i.pinimg.com/originals/ba/72/2f/ba722f34955b0f1aa4996d6918d44f0f.gif">
 
  ## Hey Hey!!
  ##
- ### Welcome to the mato!! (͠≖ ͜ʖ͠≖)👌
+ ### Welcome ! (͠≖ ͜ʖ͠≖)👌
 
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
@@ -12,7 +12,7 @@ Now, I may be knee-deep in coding and debugging, but that doesn't mean I don't k
 
 Take a spoonful of bugs and errors. Yes, you heard it right! Embrace those pesky bugs and turn them into comedy gold. After all, what's funnier than a typo that completely derails your code? Laugh with it, my friends!
 
-And there you have it, my foolproof recipe for injecting humor into my software projects! So, if you have any funny coding stories, hilarious jokes, or memes that can make me snort with laughter, please do share them with me on Discord at Genial#6321. Let's keep the coding journey light-hearted and full of joy!
+And there you have it, my foolproof recipe for injecting humor into my software projects! So, if you have any funny coding stories, hilarious jokes, or memes that can make me snort with laughter, please do share them with me on Discord at 'isagenial'. Let's keep the coding journey light-hearted and full of joy!
 
 Remember, laughter is the best debug tool. So, let's code, laugh, and create some tech magic together! Cheers!
 #### To infinity and beyond.
