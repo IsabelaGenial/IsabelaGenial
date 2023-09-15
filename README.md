@@ -4,9 +4,8 @@
  ##
  ### Welcome ! 	ʕっ•ᴥ•ʔっ
 
-♡ I'm a cadet at 42sp studying to become a human coder.
-
 ♡ Hello, hello everyone!  My name is Isabela, and at the ripe age of 24, I'm on a quest to conquer the world of software engineering. Currently, I'm a dedicated student pursuing my passion in this field.
+♡ I'm a cadet at 42sp studying to become a human coder.
 
 Now, I may be knee-deep in coding and debugging, but that doesn't mean I don't know how to have a good laugh. In fact, I've developed a secret formula for making even the most serious coding sessions hilarious. Want to hear it? Brace yourselves!
 
