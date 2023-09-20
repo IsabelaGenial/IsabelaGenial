@@ -1,10 +1,11 @@
-<img align="right" alt="Isa-pic" height="180" style="border-radius:60px;" src="https://i.pinimg.com/originals/ba/72/2f/ba722f34955b0f1aa4996d6918d44f0f.gif">
+<img align="right" alt="Isa-pic" height="200" style="border-radius:60px;" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/35211_4DA8E347FB9842EB.jpg?w=1024">
 
  ## Hey Hey!!
  ##
  ### Welcome ! 	ʕっ•ᴥ•ʔっ
 
 ♡ Hello, hello everyone!  My name is Isabela, and at the ripe age of 24, I'm on a quest to conquer the world of software engineering. Currently, I'm a dedicated student pursuing my passion in this field.
+
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
 Now, I may be knee-deep in coding and debugging, but that doesn't mean I don't know how to have a good laugh. In fact, I've developed a secret formula for making even the most serious coding sessions hilarious. Want to hear it? Brace yourselves!
@@ -13,7 +14,7 @@ Take a spoonful of bugs and errors. Yes, you heard it right! Embrace those pesky
 
 And there you have it, my foolproof recipe for injecting humor into my software projects! So, if you have any funny coding stories, hilarious jokes, or memes that can make me snort with laughter, please do share them with me on Discord at 'isagenial'. Let's keep the coding journey light-hearted and full of joy!
 
-Remember, laughter is the best debug tool. So, let's code, laugh, and create some tech magic together! Cheers!
+Remember, laughter is the best debug tool! Cheers!
 #### To infinity and beyond.
 
 ##
@@ -27,8 +28,7 @@ Remember, laughter is the best debug tool. So, let's code, laugh, and create som
   <img align="center" alt="Isa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Isa-HTML5" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Isa-CSS3" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Isa-Angularjs" height="30" width="80" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-  <img align="center" alt="Isa-Nodejs" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
  
   </div>
   
@@ -50,5 +50,5 @@ Remember, laughter is the best debug tool. So, let's code, laugh, and create som
  <a href = "https://github.com/IsabelaGenial/42_Get_Next_line"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" target="_blank"></a> 
  <a href = "https://github.com/IsabelaGenial/42_ft_printf"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" target="_blank"></a> 
   <a href = "https://github.com/IsabelaGenial/42_Born2beroot"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" target="_blank"></a> 
-  <a href = ""><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://cdn.discordapp.com/attachments/1021438070727381063/1116723262957830204/IF_I_HAD_ONE_1-fotor-bg-remover-20230609143923.png" target="_blank"></a> 
- 
+  <a href = "https://github.com/IsabelaGenial/42_so_long"><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" target="_blank"></a> 
+  <a href = ""><img align="center" alt="Isa-Spring" height="120" width="120" align="center" alt="Isa-C" height="30" width="40" src="https://cdn.discordapp.com/attachments/1021438070727381063/1116723262957830204/IF_I_HAD_ONE_1-fotor-bg-remover-20230609143923.png" target="_blank"></a>
