@@ -8,13 +8,6 @@
 
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
-Now, I may be knee-deep in coding and debugging, but that doesn't mean I don't know how to have a good laugh. In fact, I've developed a secret formula for making even the most serious coding sessions hilarious. Want to hear it? Brace yourselves!
-
-Take a spoonful of bugs and errors. Yes, you heard it right! Embrace those pesky bugs and turn them into comedy gold. After all, what's funnier than a typo that completely derails your code? Laugh with it, my friends!
-
-And there you have it, my foolproof recipe for injecting humor into my software projects! So, if you have any funny coding stories, hilarious jokes, or memes that can make me snort with laughter, please do share them with me on Discord at 'isagenial'. Let's keep the coding journey light-hearted and full of joy!
-
-Remember, laughter is the best debug tool! Cheers!
 #### To infinity and beyond.
 
 ##
