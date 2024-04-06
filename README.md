@@ -1,10 +1,10 @@
-<img align="right" alt="Isa-pic" height="200" style="border-radius:60px;" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/35211_4DA8E347FB9842EB.jpg?w=1024">
 
  ## Hey Hey!!
- ##
+ <img align="right" alt="Isa-pic" height="200" style="border-radius:60px;" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/35211_4DA8E347FB9842EB.jpg?w=1024">
+
  ### Welcome ! 	ʕっ•ᴥ•ʔっ
 
-♡ Hello, hello everyone!  My name is Isabela, and at the ripe age of 24, I'm on a quest to conquer the world of software engineering. Currently, I'm a dedicated student pursuing my passion in this field.
+♡ Hello, hello everyone!  My name is Isabela, and at the ripe age of 25, I'm on a quest to conquer the world of software engineering. Currently, I'm a dedicated student pursuing my passion in this field.
 
 ♡ I'm a cadet at 42sp studying to become a human coder.
 
